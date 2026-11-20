@@ -1,6 +1,6 @@
 # tractum-site
 
-Landing page for [Tractum](https://github.com/JordanNewell/tractum) — verifiable multi-agent consensus.
+Landing page for [Tractum](https://github.com/leverframe/tractum) — verifiable multi-agent consensus.
 
 Live at **https://tractum.dev/**
 
@@ -31,7 +31,7 @@ Just edit `index.html`. Brand tokens live at `:root` at the top of the `<style>`
 
 ## Sibling repos
 
-- **[tractum](https://github.com/JordanNewell/tractum)** — the SDK, MCP server, adapters, and full docs at `jordannewell.github.io/tractum/`. This landing links there for everything beyond the pitch.
+- **[tractum](https://github.com/leverframe/tractum)** — the SDK, MCP server, adapters, and full docs at `jordannewell.github.io/tractum/`. This landing links there for everything beyond the pitch.
 
 ## Brand
 
