@@ -39,7 +39,7 @@ Tractum Brand System v0.1 (Seal Amber). Canonical source: `10_PROJECTS/tractum/b
 
 ## License
 
-BUSL-1.1 — same as the Tractum SDK. Source-available; converts to MIT on 2030-10-12. See [LICENSE](LICENSE).
+MIT (this site). The Tractum SDK remains source-available under BUSL-1.1 — see [leverframe/tractum](https://github.com/leverframe/tractum).
 
 
 <p align="right">
