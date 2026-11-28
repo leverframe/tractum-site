@@ -41,7 +41,6 @@ Tractum Brand System v0.1 (Seal Amber). Canonical source: `10_PROJECTS/tractum/b
 
 MIT (this site). The Tractum SDK remains source-available under BUSL-1.1 — see [leverframe/tractum](https://github.com/leverframe/tractum).
 
-
 <p align="right">
   <a href="https://jordannewell.com" title="Built by Jordan Newell">
     <img src="assets/newell-badge.png" alt="Built by Jordan Newell" width="48" height="48">

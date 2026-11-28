@@ -11,15 +11,15 @@
 
 ## Tokens (as shipped)
 
-| Token | Hex | Role |
-|---|---|---|
-| `--primary` | `#FFB000` | Seal Amber — accent, ≤10% of any surface |
-| `--accent` | `#FFC94D` | Amber lift |
-| `--bg` | `#0A0A0A` | NEWELL soft-black background |
-| `--surface` / `--surface-2` | `#101010` / `#141414` | Surfaces |
-| `--border` / `--border-2` | `#1F1F1F` / `#2A2A2A` | Borders |
-| `--text` / `--muted` | `#FFFFFF` / `#9E9E9E` | Text |
-| Radii | 4 / 8 / 12 / 20 px | NEWELL radius scale |
+| Token                       | Hex                   | Role                                     |
+| --------------------------- | --------------------- | ---------------------------------------- |
+| `--primary`                 | `#FFB000`             | Seal Amber — accent, ≤10% of any surface |
+| `--accent`                  | `#FFC94D`             | Amber lift                               |
+| `--bg`                      | `#0A0A0A`             | NEWELL soft-black background             |
+| `--surface` / `--surface-2` | `#101010` / `#141414` | Surfaces                                 |
+| `--border` / `--border-2`   | `#1F1F1F` / `#2A2A2A` | Borders                                  |
+| `--text` / `--muted`        | `#FFFFFF` / `#9E9E9E` | Text                                     |
+| Radii                       | 4 / 8 / 12 / 20 px    | NEWELL radius scale                      |
 
 ## Typography
 
