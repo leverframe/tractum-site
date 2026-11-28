@@ -22,11 +22,13 @@ These are targets, not contractual guarantees. Claudeway is maintained by one pe
 ## Scope
 
 **In scope:**
+
 - The static HTML / CSS / inline JavaScript in this repo.
 - The interactive receipt verifier's client-side logic.
 - CDN dependencies (`@noble/curves`, `@noble/hashes`, Google Fonts).
 
 **Out of scope** (filed against [JordanNewell/claudeway](https://github.com/JordanNewell/claudeway) instead):
+
 - The Claudeway Python SDK.
 - The cryptographic receipt format.
 - The Ed25519 / ML-DSA-65 signature backends.
